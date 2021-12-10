@@ -1,0 +1,121 @@
+
+.u-section-1 .u-sheet-1 {
+  min-height: 500px;
+}
+
+.u-section-1 .u-cart-1 {
+  width: 1140px;
+  margin-top: 63px;
+  margin-bottom: 60px;
+  min-height: 375px;
+}
+
+.u-section-1 .u-icon-1 {
+  font-size: 1.5em;
+  margin-right: 10px;
+}
+
+.u-section-1 .u-image-1 {
+  filter: brightness(0);
+  background-image: url("data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4NCjwhLS0gR2VuZXJhdG9yOiBBZG9iZSBJbGx1c3RyYXRvciAyMS4wLjAsIFNWRyBFeHBvcnQgUGx1Zy1JbiAuIFNWRyBWZXJzaW9uOiA2LjAwIEJ1aWxkIDApICAtLT4NCjxzdmcgdmVyc2lvbj0iMS4xIiBpZD0ibWFuIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB4PSIwcHgiIHk9IjBweCINCgkgd2lkdGg9IjI1NnB4IiBoZWlnaHQ9IjI1NnB4IiB2aWV3Qm94PSIwIDAgMjU2IDI1NiIgZW5hYmxlLWJhY2tncm91bmQ9Im5ldyAwIDAgMjU2IDI1NiIgeG1sOnNwYWNlPSJwcmVzZXJ2ZSI+DQo8cmVjdCBmaWxsPSIjQzZEOEUxIiB3aWR0aD0iMjU2IiBoZWlnaHQ9IjI1NiIvPg0KPHBhdGggZmlsbC1ydWxlPSJldmVub2RkIiBjbGlwLXJ1bGU9ImV2ZW5vZGQiIGZpbGw9IiM3Rjk2QTYiIGQ9Ik0xOTIuNyw1NGMwLDAsNS4zLDAuMywxMy4yLDkuMmM3LjksOC45LDE0LjMsMTksMTUuOCwyNS44DQoJYzEuNSw2LjgsMiwxMy42LDAuMywxNy41Yy0xLjgsMy45LTExLjQsMzQuNC0xMS43LDQzLjljLTAuMyw5LjUtMi42LDUzLTIuNiw1M2gtMTAuNWwtMi4xLTU3LjdjMCwwLTAuMy0xMC43LTMuOC0xMC43DQoJYy0zLjUsMC0xNi43LDQuNC0yOC45LDI3QzE1MCwxODQuNSwxNDMsMTk3LjUsMTM2LDIwMC44Yy03LDMuMy01Ny4zLDQuMi03MSwyLjFjLTEzLjctMi4xLTMxLjMtOS41LTMxLjMtOS41cy0zLjgtNy4xLDctMTAuMQ0KCWMxMC44LTMsNDEuOC0xMyw0OC4yLTE2LjljMy43LTIuMiwyOSw2LjksMzguOS01LjFjOS4xLTExLjEsMzcuMy03MSw0NS42LTgyLjlDMTgzLjQsNjQuMSwxOTAuOCw1NCwxOTIuNyw1NHoiLz4NCjwvc3ZnPg0K");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-text-1 {
+  font-size: 1rem;
+}
+
+.u-section-1 .u-product-quantity-1 {
+  width: 100px;
+}
+
+.u-section-1 .u-icon-2 {
+  font-size: 1.5em;
+  margin-right: 10px;
+}
+
+.u-section-1 .u-image-2 {
+  filter: brightness(0);
+  background-image: url("data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4NCjwhLS0gR2VuZXJhdG9yOiBBZG9iZSBJbGx1c3RyYXRvciAyMS4wLjAsIFNWRyBFeHBvcnQgUGx1Zy1JbiAuIFNWRyBWZXJzaW9uOiA2LjAwIEJ1aWxkIDApICAtLT4NCjxzdmcgdmVyc2lvbj0iMS4xIiBpZD0ibWFuIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB4PSIwcHgiIHk9IjBweCINCgkgd2lkdGg9IjI1NnB4IiBoZWlnaHQ9IjI1NnB4IiB2aWV3Qm94PSIwIDAgMjU2IDI1NiIgZW5hYmxlLWJhY2tncm91bmQ9Im5ldyAwIDAgMjU2IDI1NiIgeG1sOnNwYWNlPSJwcmVzZXJ2ZSI+DQo8cmVjdCBmaWxsPSIjQzZEOEUxIiB3aWR0aD0iMjU2IiBoZWlnaHQ9IjI1NiIvPg0KPHBhdGggZmlsbD0iIzdGOTZBNiIgZD0iTTE4Ny43LDEyMS42Yy0xLjgtMS44LTIuMS0xMi42LTYtMTMuN2MtMy45LDYuNiwwLjksOTkuMy0wLjYsMTAzLjFjLTEuMSw4LjgtNTMuOCwxOS44LTEwMy40LDUuNw0KCWMtMi4yLTAuOC02LjItMS43LTcuMy0zLjdjMi4xLTgsNS4xLTgyLjMsMS4xLTEwMS42Yy0xLjksMi44LTMuMyw2LjEtNS42LDguNmMwLDAtMjAuNCwxLjctMzQuNS0xMy4yYzAsMCw5LjQtMjQuNSwxMi43LTMxLjQNCgljMS41LTUsMy44LTkuOSw2LjUtMTQuMmM1LTgsMTEuOS0xMS4yLDIwLjgtMTMuNEM5NS45LDQxLjUsOTguOCwzNiwxMDYuMSwzM2MyLjUsMy42LDExLjgsNiwxNy45LDYuNmMxNC4xLDEuNCwyNi4yLTcuMSwyNi41LTYuOQ0KCWMyLjIsMS43LDYuMSw0LjMsOC41LDUuNWMxMC40LDUsMjIuNCw1LjQsMzIuNiwxMC45YzAsMCwxMy43LDMuNCwyMS43LDMxLjhsMTEsMjguMUMyMjQuNSwxMDksMjEyLjUsMTI0LjUsMTg3LjcsMTIxLjZ6Ii8+DQo8cGF0aCBmaWxsPSIjQzZEOEUxIiBkPSJNNjEuMiw1MC42bC0zLjgsMS4zbDAuMywwLjljMC4xLDAuNCwxMS43LDM5LjksMTAuNSw2My4ybC0wLjEsMWw0LDAuMmwwLjEtMUM3My40LDkyLDYxLjYsNTIsNjEuNSw1MS42DQoJTDYxLjIsNTAuNnoiLz4NCjxwYXRoIGZpbGw9IiNDNkQ4RTEiIGQ9Ik0xOTgsNDguOGwtMy44LTEuNGwtMC4zLDFjLTAuNSwxLjctMTMuMSw0Mi41LTEyLjgsNjMuNnYxbDQtMC4xdi0xYy0wLjMtMjAuNSwxMi41LTYxLjksMTIuNi02Mi4zTDE5OCw0OC44DQoJeiIvPg0KPHBhdGggZmlsbD0iI0M2RDhFMSIgZD0iTTE1NC40LDM1LjNjLTAuMSwwLjItNi43LDE3LjYtMzEuOSwxNi43Yy0xNS0xLjItMjAuOS0xMC42LTIyLjEtMTZsLTAuMi0xbC00LDAuOGwwLjIsMQ0KCWMxLjQsNi41LDguMywxNy44LDI1LjgsMTkuMmMwLjQsMCwwLjksMCwxLjMsMGwwLDBjMC4yLDAsMC40LDAsMC42LDBjMjIuNywwLDMyLjQtMTQuNCwzNC0xOS41bDAuMy0xbC0zLjgtMS4yTDE1NC40LDM1LjN6Ii8+DQo8L3N2Zz4NCg==");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-text-2 {
+  font-size: 1rem;
+}
+
+.u-section-1 .u-product-quantity-2 {
+  width: 100px;
+}
+
+.u-section-1 .u-icon-3 {
+  font-size: 1.5em;
+  margin-right: 10px;
+}
+
+
+.u-section-1 .u-image-3 {
+  filter: brightness(0);
+  background-image: url("data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4NCjwhLS0gR2VuZXJhdG9yOiBBZG9iZSBJbGx1c3RyYXRvciAyMS4wLjAsIFNWRyBFeHBvcnQgUGx1Zy1JbiAuIFNWRyBWZXJzaW9uOiA2LjAwIEJ1aWxkIDApICAtLT4NCjxzdmcgdmVyc2lvbj0iMS4xIiBpZD0ibWFuIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB4PSIwcHgiIHk9IjBweCINCgkgd2lkdGg9IjI1NnB4IiBoZWlnaHQ9IjI1NnB4IiB2aWV3Qm94PSIwIDAgMjU2IDI1NiIgZW5hYmxlLWJhY2tncm91bmQ9Im5ldyAwIDAgMjU2IDI1NiIgeG1sOnNwYWNlPSJwcmVzZXJ2ZSI+DQo8cmVjdCBmaWxsPSIjQzZEOEUxIiB3aWR0aD0iMjU2IiBoZWlnaHQ9IjI1NiIvPg0KPHBhdGggZmlsbD0iIzdGOTZBNiIgZD0iTTIwOC42LDEzMWMwLjYsMC4yLDEuMiwwLjMsMS45LDAuM2MyLjUsMCw0LjctMS40LDUuNi0zLjZjMS0yLjgtMC42LTUuOC0zLjctNi43bC0yNi4yLTcuOGwxNi43LTE1LjENCgljMi4zLTIuMSwyLjMtNS40LDAtNy41cy02LTIuMS04LjMsMGwtMTMuNywxMi4zQzE3OS43LDgzLjUsMTYyLDY4LDE0MC4xLDY4aC0yNC4yYy0yMi42LDAtNDEsMTYuNi00MSwzNi45djE1LjhoOTkuNEwyMDguNiwxMzF6DQoJIE0yMzAsMTY0LjVsLTM2LjktMzMuMkg3MC4zbC0zNi45LDMzLjJjLTEuNywxLjUtMi4yLDMuOC0xLjMsNS43YzAuOSwyLDMsMy4zLDUuNCwzLjNoMzYuOGMxMy44LDAsMjcuMiwyLjMsMzkuOCw2LjkNCgljMTQuMSw1LjEsMjkuOCw3LjYsNDQuOCw3LjZjMTIuNywwLDI1LjUtMS44LDM3LjctNS41bDMxLjEtOS4zYzEuOS0wLjYsMy40LTIsMy45LTMuOEMyMzIsMTY3LjYsMjMxLjQsMTY1LjgsMjMwLDE2NC41eiIvPg0KPC9zdmc+DQo=");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-text-3 {
+  font-size: 1rem;
+}
+
+.u-section-1 .u-product-quantity-3 {
+  width: 100px;
+}
+
+.u-section-1 .u-btn-1 {
+  padding: 10px 14px;
+}
+
+.u-block-bc7f-90 {
+  font-weight: 700;
+}
+
+.u-section-1 .u-table-cell-17 {
+  font-weight: 700;
+}
+
+.u-section-1 .u-table-cell-19 {
+  font-weight: 700;
+}
+
+.u-section-1 .u-table-cell-20 {
+  font-weight: 700;
+}
+
+.u-section-1 .u-btn-4 {
+  margin-top: 20px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-cart-1 {
+    width: 940px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-cart-1 {
+    width: 720px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-cart-1 {
+    width: 540px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-cart-1 {
+    width: 340px;
+  }
+}
+.table{
+  position: relative;
+  left: 10px;
+}

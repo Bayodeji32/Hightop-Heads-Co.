@@ -1,1 +1,1 @@
-# Hightop-Heads-Co.
+# Hightop-Heads-Co
